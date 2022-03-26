@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       <Profile
-        fullName="Ricardo kaka"
+        fullName="Ricardo Sr. kaka"
         bio="Ricardo Izecson dos Santos Leite, plus connu sous le pseudonyme de Kaká, né le 22 avril 1982 à Gama, District Fédéral, au Brésil, est un footballeur international brésilien, qui évolue au poste de milieu offensif du début des années 2000 à la fin des années 2010."
         profession={"un footballeur"}
         handleName={handleName}
